@@ -44,6 +44,14 @@ The system is evaluated based on:
 ---
 
 ## 🚀 Installation & Usage
-1. **Clone the repo:** `git clone https://github.com/your-username/fake-news-detector-nlp.git`
-2. **Install dependencies:** `pip install -r requirements.txt`
-3. **Run the Notebook:** Execute `fake_news_detector.ipynb` to train the model and test custom news headlines.
+1. **Clone the repo:** 
+   ```bash
+   git clone https://github.com/your-username/fake-news-detector-nlp.git
+   
+2. **Install dependencies:** 
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Run the Notebook:** 
+   Plaintext
+   Execute `fake_news_detector.ipynb` to train the model and test custom news headlines.   
