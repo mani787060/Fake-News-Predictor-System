@@ -280,12 +280,6 @@ Its predictions may be affected by dataset quality, historical patterns, languag
 
 The model should therefore be treated as an educational text-classification experiment, not a definitive fact-checking system.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
 
 ---
 
